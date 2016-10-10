@@ -7,7 +7,6 @@ fs.readFile(filename, function(err, data) {
   if (err) {
     console.error(err);
   };
-  // console.log(JSON.parse(data.toString('utf-8')));
   printout(JSON.parse(data.toString('utf-8')));
 });
 

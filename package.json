@@ -1,11 +1,7 @@
 {
-  "name": "dynamodbconverter",
+  "name": "dynamo-backup-converter",
   "version": "1.0.0",
   "description": "",
-  "main": "fromDynamoFileToCSV.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "Caio C. Bolognani",
+  "license": "MIT"
 }
